@@ -9,3 +9,4 @@
 </a>
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=spman2330&animated=true)
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=spman2330&animated=true" alt="LeetCode Badges"/>
