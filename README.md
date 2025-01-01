@@ -7,3 +7,5 @@
         height="300"
     />
 </a>
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=spman2330&animated=true)
