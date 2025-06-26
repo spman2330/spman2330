@@ -1,11 +1,30 @@
-## Hi there 👋
+# Blockchain Developer Profile
 
-<a href="https://github.com/devxb/gitanimals">
-    <img
-        src="https://render.gitanimals.org/farms/spman2330"
-        width="600"
-        height="300"
-    />
-</a>
+## About Me
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=spman2330&theme=nightowl&animated=true)
+Hi, I'm a blockchain developer passionate about building innovative solutions in the decentralized world.
+
+---
+
+### 🛠️ **Skills**
+- **Programming Languages:** Python, Node.js
+- **Database:** Experienced with various database technologies
+- **Blockchain:** In-depth knowledge and hands-on experience
+
+---
+
+### 💡 **Philosophy**
+> To become a spman, a person must first be a spman.  
+> — Spman
+
+---
+
+### 🎮 **Interests**
+- Manga
+- Gaming: League of Legends, Teamfight Tactics, Stardew Valley
+- Music
+- Coding
+
+---
+
+<!-- No social links shared by request -->
