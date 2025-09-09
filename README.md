@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/95dae871-56c5-47a6-bd3f-770aae4c404c" /># Developer Profile
+Developer Profile
 
 ## About Me
 
