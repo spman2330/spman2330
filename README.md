@@ -1,30 +1,24 @@
-# Blockchain Developer Profile
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/95dae871-56c5-47a6-bd3f-770aae4c404c" /># Developer Profile
 
 ## About Me
 
-Hi, I'm a blockchain developer passionate about building innovative solutions in the decentralized world.
+Hi, I'm a developer passionate about exploring the world.
 
 ---
 
 ### 🛠️ **Skills**
-- **Programming Languages:** Python, Node.js
-- **Database:** Experienced with various database technologies
-- **Blockchain:** In-depth knowledge and hands-on experience
+- **Programming Languages:** Python, Node.js, C/C++
 
 ---
 
 ### 💡 **Philosophy**
 > To become a spman, a person must first be a spman.  
-> — Spman
+> — **Spman**
 
 ---
 
 ### 🎮 **Interests**
-- Manga
-- Gaming: League of Legends, Teamfight Tactics, Stardew Valley
+- Manga/Book
+- Gym
 - Music
 - Coding
-
----
-
-<!-- No social links shared by request -->
