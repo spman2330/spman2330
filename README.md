@@ -18,7 +18,9 @@ Hi, I'm a developer passionate about exploring the world.
 ---
 
 ### 🎮 **Interests**
-- Manga/Book
+- Manga
+- Book
+- Movies
 - Gym
 - Music
 - Coding
